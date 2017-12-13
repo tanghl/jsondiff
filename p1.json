@@ -1,0 +1,335 @@
+{
+  "vast": {
+    "version": "",
+    "cuid": "",
+    "server": "",
+    "ipaddr": "",
+    "Ad": [
+      {
+        "id": "",
+        "order_item_id": "",
+        "cuepoint_type": 0,
+        "sequence": 0,
+        "lc": 0,
+        "mc": 0,
+        "InLine": {
+          "AdSystem": {
+            "version": "",
+            "cdata": ""
+          },
+          "Impression": [
+            {
+              "type": "",
+              "system": "",
+              "cdata": ""
+            },
+            {
+              "type": "",
+              "system": "",
+              "cdata": ""
+            },
+            {
+              "type": "",
+              "system": "",
+              "cdata": ""
+            },
+            {
+              "type": "",
+              "system": "",
+              "cdata": ""
+            }
+          ],
+          "Creatives": {
+            "Creative": [
+              {
+                "NonLinearAds": {
+                  "NonLinear": [
+                    {
+                      "width": 0,
+                      "height": 0,
+                      "minSuggestedDuration": "",
+                      "apiFramwork": "",
+                      "adzone_id": "",
+                      "NonLinearClickTracking": [
+                        {
+                          "type": "",
+                          "system": "",
+                          "cdata": ""
+                        },
+                        {
+                          "type": "",
+                          "system": "",
+                          "cdata": ""
+                        }
+                      ],
+                      "NonLinearClickThrough": "",
+                      "StaticResource": {
+                        "creativeType": "",
+                        "cdata": ""
+                      },
+                      "AdParameters": {
+                        "xmlEncoded": ""
+                      },
+                      "Icons": {
+                        "Icon": [
+                          {
+                            "showAd": "",
+                            "cdata": ""
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "TrackingEvents": {
+              "Tracking": [
+                {
+                  "event": "",
+                  "type": "",
+                  "system": "",
+                  "cdata": ""
+                },
+                {
+                  "event": "",
+                  "type": "",
+                  "system": "",
+                  "cdata": ""
+                },
+                {
+                  "event": "",
+                  "type": "",
+                  "system": "",
+                  "cdata": ""
+                },
+                {
+                  "event": "",
+                  "type": "",
+                  "system": "",
+                  "cdata": ""
+                },
+                {
+                  "event": "",
+                  "type": "",
+                  "cdata": ""
+                },
+                {
+                  "event": "",
+                  "type": "",
+                  "system": "",
+                  "cdata": ""
+                },
+                {
+                  "event": "",
+                  "type": "",
+                  "system": "",
+                  "cdata": ""
+                }
+              ]
+            }
+          },
+          "Extensions": {
+            "Extension": [
+              {
+                "sessionid": "",
+                "type": "",
+                "data": ""
+              ,
+                "Template": {
+                  "vpaid": ""
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "Policy": {
+      "CuePoint": [
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        },
+        {
+          "slot_id": "",
+          "type": "",
+          "startTime": "",
+          "duration": "",
+          "timeType": ""
+        }
+      ]
+    }
+  }
+}
